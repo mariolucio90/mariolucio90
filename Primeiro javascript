@@ -1,0 +1,8 @@
+<meta charset="UTF-8">
+
+<script>
+    document.write("Mário nasceu no ano de ");
+    document.write(2021 -31);
+    document.write("<br>");
+    document.write("Então Mário tem 31 anos");
+</script>

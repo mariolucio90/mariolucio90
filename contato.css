@@ -6,3 +6,30 @@ body p {
     font-size: 22px;
     text-decoration: none;
 }
+
+main {
+
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+
+    margin: 40px 0;
+
+}
+
+form label, form legend {
+
+    display: block;
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+
+.input-padrão {
+
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 20px;
+    width: 50%;
+}

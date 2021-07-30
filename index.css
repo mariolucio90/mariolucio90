@@ -28,9 +28,12 @@ nav a {
     text-decoration: none;
 }
 
-footer{
+footer p{
 
+display: flex;
+align-items: flex-end;
+color: darkblue;
+font-size: 22px;
 
     
 }
-
